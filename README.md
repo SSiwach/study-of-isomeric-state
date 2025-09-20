@@ -1,4 +1,4 @@
-# study-of-isomeric-state
+# Study-of-isomeric-state
 
 This Python program calculates the total transition probability and reduced transition probability for the nuclear structure based on the user input. This program uses different equations depending on the type of transition. 
 
